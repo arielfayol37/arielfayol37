@@ -17,6 +17,7 @@
 
 ## 🛠 Skills
 **My main skill is that I learn really fast, but for resume purposes, here you go:**
+
 **Programming:** Python, C, C++, Java, JavaScript, SQL  
 **ML Frameworks:** PyTorch, TensorFlow, YOLOv8, OpenCV  
 **Web & Mobile:** Django, FastAPI, React.js, React Native  
