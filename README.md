@@ -1,5 +1,5 @@
 # Hi, I'm Fayol Ateufack 👋
-**AI Engineer / Researcher | Physics & Computer Engineering Student**
+**AI Engineer / Researcher | Software Engineer | Physics & Computer Engineering Student**
 
 📍 Based in the USA | 🎓 Valparaiso University (BS Computer Engineering + BS Physics, 2026)  
 📧 fayol.ateufackzeudom@valpo.edu  
