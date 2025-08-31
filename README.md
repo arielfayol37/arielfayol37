@@ -10,8 +10,8 @@
 ---
 
 ## 🚀 About Me
-- Passionate about **[Super] Intelligence**  
-- Experienced in **Software Engineering and end-to-end ML pipelines**: from dataset curation → model training → cloud deployment  
+- Passionate about (super)Intelligence and creating value by inventing new things. 
+- Experienced in traditional Software Engineering and end-to-end ML engineering: from dataset curation → model training → cloud deployment  
 - 2× **IEEE-published author** on deep learning
   
 💬 *Always open to collaborating on challenging projects or discussing research opportunities.*  
